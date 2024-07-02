@@ -2,8 +2,7 @@
 
 - ✓ Estudiante avanzado en sistemas de la información.
 
-- 🚀 Estoy en búsqueda de nuevas oportunidades para aplicar mis habilidades y contribuir al éxito de proyectos innovadores. Si estás interesado en conectar o tienes alguna propuesta, no dudes en enviarme un mensaje.
-
+- Soy un estudiante avanzado de la Licenciatura en Sistemas de Información de las Organizaciones en la Universidad de Buenos Aires. Poseo conocimientos en Java, SQL, C#, customer service y Microsoft Power BI. He adquirido experiencia en programación Full Stack y bases de datos SQL en EggAcademy y ÍCARO. Además, he desarrollado habilidades en Data Analytics mediante mi formación en Soy Henry. También cuento con experiencia laboral en ventas, habiendo trabajado en KIND durante casi dos años.
 ## Herramientas que manejo
 
 <p align="center">
@@ -21,4 +20,13 @@
   <img src="https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" />
+</p>
+
+
+## Contacto
+
+<p align="center">
+  <a href="mailto:dan8dani@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
